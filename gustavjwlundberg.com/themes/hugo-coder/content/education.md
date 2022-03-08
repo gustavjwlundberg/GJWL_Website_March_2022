@@ -4,7 +4,7 @@ slug = "education"
 +++
 M.A. in Psychology
 * New York University
-* September 2019 - August 2022
+* September 2019 - August 2021
 * Specialized in Social Psychology and Social Neuroscience
 	
 B.A. in Psychology & B.A. in Sociology
