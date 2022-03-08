@@ -121,7 +121,7 @@ url = "https://twitter.com/gjwlundberg"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/gustav-lundberg-739409148/"
 
 [[params.social]]
 name = "gmail"
